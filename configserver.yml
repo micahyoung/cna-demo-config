@@ -1,6 +1,0 @@
-info.description: configserver
----
-spring:
-  profiles: cloud
-config:
-  name: Bar
